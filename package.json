@@ -1,0 +1,20 @@
+{
+  "name": "dy-docs",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A lightweight collaborative document and knowledge base project.",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "typecheck": "turbo typecheck"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^2.0.0",
+    "typescript": "^5.0.0"
+  },
+  "packageManager": "pnpm@10.34.2"
+}
